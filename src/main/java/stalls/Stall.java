@@ -1,5 +1,6 @@
 package stalls;
 
+
 public abstract class Stall {
 
     private String name;
